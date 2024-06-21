@@ -1,1 +1,40 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
 
+
+
+.contenedor1 {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    width: 70%;
+    border-radius: 30px;
+    background-color: #ccc;
+}
+
+.contenedor2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 10px;
+    font-size: 30px;
+    background-color: blanchedalmond;
+    width: 100%;
+    border-radius: 50%;
+    
+}
+
+.plantilla {
+    font-weight: bold;
+}
